@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+h2{
+    /* О курсе */
+position: absolute;
+width: 365px;
+height: 93px;
+left: 124px;
+top: 91px;
+font-family: 'Roboto Slab';
+font-style: normal;
+font-weight: 700;
+font-size: 55px;
+line-height: 101.38%;
+/* or 56px */
+color: #000000;
+}
+.bir{
+position: absolute;
+width: 662px;
+height: 374px;
+left: 124px;
+top: 202px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 150%;
+/* or 36px */
+color: #000000;
+}
+.iki{
+    position: absolute;
+width: 314px;
+height: 315px;
+left: 976px;
+top: 226px;
+
+background: url(_1);
+}
+p{
+    position: absolute;
+width: 150px;
+height: 39px;
+left: 488px;
+top: 740px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 25px;
+line-height: 130%;
+/* or 32px */
+
+
+color: #000000;
+
+}
